@@ -8,3 +8,7 @@ Then processing the video using VIBE to get output using the command below. For 
 
 Then run `python run_the_pushup_test.py`. The output is counting pushup like below:
 ![image](https://user-images.githubusercontent.com/28846566/112023995-fe68d780-8af0-11eb-84c4-fc4fe1dcf248.png)
+
+Optical flow tracking
+
+![Uploading image.png…]()
